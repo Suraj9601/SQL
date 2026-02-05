@@ -1,2 +1,0 @@
-CREATE DATABASE Sample_DB;
-USE Sample_DB;
