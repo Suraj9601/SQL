@@ -13,3 +13,8 @@ ORDER BY score DESC
 SELECT TOP 2 * 
 FROM customers
 ORDER BY score ASC
+
+-- Display the most recent orders
+
+SELECT TOP 2 * FROM orders
+ORDER BY order_date DESC
